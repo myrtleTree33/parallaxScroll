@@ -24,24 +24,35 @@ block content
         .container
             .row-fluid
                 .span12.text-left
-                    h1 Introducing NUS Marketplace.
+                    h1 Introducing NUS Buzz.
                     h4 A responsive mobile trade portal, written in NodeJS.
                     h4 Built for students, by students.
+                    br
 
             .row-fluid 
                 .span4.text-center
                     h2
                         | Buy
-                    h3
-                        | View items on sale.
+
+                    img(src='/images/bear.png')
+
                 .span4.text-center 
                     h2
                         | Sell 
-                    h3 
-                        | Trade items you no longer need.
+                    img(src='/images/elephant.png')
                 .span4.text-center 
                     h2
                         | Meet 
+                    img(src='/images/trade.png')
+
+            .row-fluid 
+                .span4.text-center
+                    h3
+                        | View items on sale.
+                .span4.text-center 
+                    h3 
+                        | Trade items you no longer need.
+                .span4.text-center 
                     h3 
                         | Transact your goods.
 
@@ -51,6 +62,22 @@ block content
                 .span12.text-left 
                     h2
                         | Take a peek!
+
+            .row-fluid 
+                ul.thumbnails
+                    li.span4
+                        //.thumbnail
+                        h3.text-center Home page
+                        img(src='/images/screenshots/category.png').img-polaroid
+                    li.span4
+                        // .thumbnail
+                        h3.text-center Selling items
+                        img(src='/images/screenshots/sell.png').img-polaroid
+                    li.span4
+                        //.thumbnail
+                        h3.text-center Browsing items
+                        img(src='/images/screenshots/category2.png').img-polaroid
+
 
     section#page3(data-speed='2', data-type='background')
         .container
@@ -81,7 +108,7 @@ block content
 
             .row-fluid
                 .span4.text-center
-                    a
+                    a(href='https://www.facebook.com/nusbuzz/')
                         img(src='/images/facebook2.png')
                 .span4.text-center
                     a
@@ -100,6 +127,8 @@ block content
                     br
                     h4
                         | Built by Team JAVA.  NUS iCreate Mobility Challenge 2013.  With lots of love.
+                    h5
+                        | Alex Yao | Alex Peh | Joel Tong | Sreshta Vijay
 
 
 

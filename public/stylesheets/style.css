@@ -22,7 +22,7 @@ a {
   width: 100%;
   position: relative;
   box-shadow: 0 0 50px rgba(0,0,0,0.8);
-  padding: 100px 0 200px;
+  padding: 100px 0 300px;
   font: 20px 'Source Sans Pro', sans-serif;
 /*font: 20px 'Quattrocento Sans', sans-serif;*/
 }
@@ -33,7 +33,7 @@ a {
   width: 100%;
   position: relative;
   box-shadow: 0 0 50px rgba(0,0,0,0.8);
-  padding: 100px 0 200px;
+  padding: 100px 0 100px;
   color: #fff;
 }
 #page3 {
