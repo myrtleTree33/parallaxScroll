@@ -15,6 +15,10 @@ section,
 .container {
   height: 100%;
 }
+img#heroImg {
+  width: 400px;
+  height: auto;
+}
 #page0 {
   background: url("/images/retina_wood.png") 50% 0 repeat fixed;
   height: 100%;
