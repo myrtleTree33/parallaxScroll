@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Team JAVA | NUS Buzz' });
+  res.render('index', { title: 'HTML5 Parallax Scroller' });
 };
