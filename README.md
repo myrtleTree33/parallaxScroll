@@ -29,6 +29,9 @@ Navigate to http://localhost:3000/
 
 You're set!  Rinse, edit and repeat.
 
+##Under the Hood##
+See http://joeltong.org/blog/?p=173 for more information on how it works.
+
 
 ##Credit:##
 Joel Haowen TONG, jhtong (me [at] joeltong [dot] org)
