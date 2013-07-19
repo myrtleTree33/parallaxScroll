@@ -3,8 +3,8 @@ HTML5 Parallax Scroller
 
 Rapidly Deploy a Parallax Scroll website in NodeJS.  Great for Teasers.  Built on Bootstrap and NodeJS.
 
-**A rapidly-deployable parallax scroller, deployed on Twitter Boostrap, NodeJS,
-    Jade, Stylus, Jquery and Express**
+Deployed on Twitter Boostrap, NodeJS,
+    Jade, Stylus, Jquery and Express
 
 ##Features:##
 1. Responsive full-page deployment, adapts to screen resizing.
@@ -31,5 +31,6 @@ You're set!  Rinse, edit and repeat.
 
 
 ##Credit:##
-jhtong (me [at] joeltong [dot] org)
-mashed from http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
+Joel Haowen TONG, jhtong (me [at] joeltong [dot] org)
+
+Mashed from http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
