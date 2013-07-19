@@ -21,8 +21,8 @@ creating teasers!
 Example here: http://www.nusbuzz.com/
 
 ##Installation##
-    git clone git@bitbucket.org:jhtong/expressjs-parallaxscroll.git
-    cd expressjs-parallaxscroll/
+    git clone git@github.com:toiletfreak/parallaxScroll.git
+    cd parallaxscroll/
     node app.js
 
 Navigate to http://localhost:3000/
