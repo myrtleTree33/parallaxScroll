@@ -24,4 +24,9 @@ Example here: http://www.nusbuzz.com/
 
 Navigate to http://localhost:3000/
 
-You're set!  Rinse, edit and repeat (:
+You're set!  Rinse, edit and repeat.
+
+
+##Credit:##
+jhtong (me [at] joeltong [dot] org)
+mashed from http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
