@@ -23,6 +23,7 @@ Example here: http://www.nusbuzz.com/
 ##Installation##
     git clone git@github.com:toiletfreak/parallaxScroll.git
     cd parallaxscroll/
+    npm install express stylus jade
     node app.js
 
 Navigate to http://localhost:3000/
